@@ -1,0 +1,14 @@
+{
+  "name": "adapt-ref-cred",
+  "version": "1.0.0",
+  "description": "Página de refrência e créditos.",
+  "main": "js/adapt-refCred.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.2.5"
+  }
+}

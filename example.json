@@ -1,0 +1,9 @@
+{
+  "_id":"c-05",
+  "_parentId":"b-05",
+  "_type":"component",
+  "_component":"refCred",
+  "_classes":"",
+  "titleText": "Título",
+  "textInside": "Parágrafo"
+}
